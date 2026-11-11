@@ -1,0 +1,6 @@
+{
+  "name": "A Little Apology for You",
+  "description": "A romantic, interactive personal apology experience crafted with cute pastel aesthetics, heartfelt letters, memories, surprise transfer envelope, and sweet promises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
